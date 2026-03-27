@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">X.A.R</h1>
 
-<!--
-**berlin-xd124/berlin-xd124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">⚡ Developer • UI Architect • Digital Creator</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&lines=Building+Next-Level+Interfaces;Crafting+Smooth+User+Experiences;Creating+Powerful+Systems;Always+Evolving" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Identity
+---
+
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+- ⚡ Advanced Animated Websites  
+- 🤖 Discord Automation Systems  
+- 🎨 High-End UI Experiments  
+
+---
+
+## 📊 System Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Network
+<p align="center">
+  <a href="https://instagram.com/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.gg/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+> "Design. Code. Evolve."
+
+---
+
+## 🟢 Status
