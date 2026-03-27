@@ -68,7 +68,7 @@
 
 ## 🧠 Identity
 ```bash
-Name: Akshat
+Name: 'Berlin_xd
 Alias: X.A.R
-Role: Developer
+Role: Developer & Editor
 Focus: UI/UX • Animations • Systems
