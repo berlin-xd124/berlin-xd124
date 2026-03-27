@@ -51,3 +51,24 @@
 ---
 
 ## 🟢 Status
+
+<!-- 🔥 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00F0FF&height=200&section=header&text=X.A.R&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">⚡ Developer • UI Architect • Digital Creator</h3>
+
+<!-- ⚡ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&size=22&lines=Building+Futuristic+Interfaces;Crafting+Smooth+Animations;Developing+Powerful+Systems;Always+Evolving..." />
+</p>
+
+---
+
+## 🧠 Identity
+```bash
+Name: Akshat
+Alias: X.A.R
+Role: Developer
+Focus: UI/UX • Animations • Systems
