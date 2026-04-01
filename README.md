@@ -92,7 +92,7 @@
 
 ## ⚡ About Me  
 ```diff
-+ 🎬 Professional Video Editor with years of experience
++ 🎬 Professional Video Editor with 6 years of experience
 + 💻 Developer (Discord Bots + Websites)
 + ⚡ Focused on high-quality visuals & powerful systems
 + 🧠 Always learning new tech & improving skills
