@@ -1,7 +1,7 @@
 <h1 align="center">👑 Berlin-XD124</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/berlin-xd124/berlin-xd124/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/berlin-xd124/berlin-xd124/main/Banner.png" alt="Banner" />
 </p>
 
 <h3 align="center">🎬 Professional Video Editor | 💻 Full-Stack Developer</h3>
