@@ -1,21 +1,63 @@
-<!-- CYBER HEADER (CYAN/BLUE DARK THEME) -->
+<!-- Cyan Blue Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001F3F&height=240&section=header&text=BËRŁIÑ&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=40&desc=SYSTEM%20ONLINE%20%7C%20CREATIVE%20ENGINE%20ACTIVE&descAlignY=70&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0066FF&height=220&section=header&text=BËRŁIÑ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- TERMINAL BOOT -->
+<!-- Intro -->
+<h1 align="center">Hi 👋, I'm BËRŁIÑ</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Booting+System...;Access+Granted+✔;User:+BËRŁIÑ;Role:+Coder+%7C+Video+Editor;Executing+Clean+Builds;Rendering+Cinematic+Frames..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Coder+%7C+Video+Editor;Building+Clean+%26+Efficient+Projects;Editing+with+Precision;Always+Improving." />
 </p>
 
 ---
 
-## 🖥️ SYSTEM PROFILE
+## 🧠 About Me
 
-```bash
-> USER: BËRŁIÑ
-> ROLE: Developer / Video Editor
-> FOCUS: Clean Code + Cinematic Editing
-> TOOLS: Python / JS / Premiere Pro / After Effects
-> STATUS: Active
-> MISSION: Build high-quality, impactful projects
+- 💻 Focused on clean, efficient code  
+- 🎬 Video editor with cinematic workflow  
+- ⚡ Fast learner, consistent builder  
+- 🎯 Aim: High-quality projects over quantity  
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,git,vscode" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berlin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berlin&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berlin&theme=tokyo-night&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/berlin/berlin/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+  <b>Build clean. Edit sharp. Stay consistent.</b>
+</p>
