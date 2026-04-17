@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm BËRŁIÑ</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=berlin&color=00F5FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=berlin-xd124&color=00F5FF&style=flat-square" />
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berlin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berlin&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=berlin-xd124&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berlin-xd124&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berlin&theme=tokyo-night&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berlin-xd124&theme=tokyo-night&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF" />
 </p>
 
 ---
