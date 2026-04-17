@@ -1,44 +1,21 @@
-<!-- Glitch Banner -->
+<!-- CYBER HEADER (CYAN/BLUE DARK THEME) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:000000&height=220&section=header&text=BËRŁIÑ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001F3F&height=240&section=header&text=BËRŁIÑ&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=40&desc=SYSTEM%20ONLINE%20%7C%20CREATIVE%20ENGINE%20ACTIVE&descAlignY=70&descAlign=50" />
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">Hi 👋, I'm BËRŁIÑ</h1>
-
+<!-- TERMINAL BOOT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=9F00FF&center=true&vCenter=true&width=650&lines=Coder+%7C+Video+Editor;Building+Clean+%26+Deadly+Projects;Editing+Frames+Like+Code;Fast.+Sharp.+Unstoppable." />
-</p>
-
----
-
-## 🧠 About Me
-
-- 💻 Coder focused on performance & clean structure  
-- 🎬 Video Editor with cinematic + esports style  
-- ⚡ Fast workflow, no wasted moves  
-- 🔥 I build things that stand out  
-- 🎯 Grinding to become elite  
-
-> "I don't follow trends. I create execution."
-
----
-
-## ⚒️ Skills
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,git,vscode" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=ae,pr,ps" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Booting+System...;Access+Granted+✔;User:+BËRŁIÑ;Role:+Coder+%7C+Video+Editor;Executing+Clean+Builds;Rendering+Cinematic+Frames..." />
 </p>
 
 ---
 
-## 🚀 Projects Mindset
+## 🖥️ SYSTEM PROFILE
 
-```txt
-> Code like a machine  
-> Edit like a storyteller  
-> Move like a sniper
+```bash
+> USER: BËRŁIÑ
+> ROLE: Developer / Video Editor
+> FOCUS: Clean Code + Cinematic Editing
+> TOOLS: Python / JS / Premiere Pro / After Effects
+> STATUS: Active
+> MISSION: Build high-quality, impactful projects
