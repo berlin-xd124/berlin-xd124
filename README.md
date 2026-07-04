@@ -65,6 +65,6 @@
 [00:00] Started coding  
 [00:15] Learned structure & logic  
 [00:30] Entered video editing  
-[00:45] Built esports visuals  
+[00:45] Building random stuff
 [01:00] Developing real projects  
 [01:??] Still evolving...
